@@ -1,8 +1,5 @@
 # 🐳 Docker Compose: .NET API + SQL Server Starter
 
-A complete beginner-friendly template to run a containerized `.NET Web API` and `SQL Server` using **Docker Compose**.
-
-
 ## 📦 Project Overview
 
 This repo includes:
@@ -30,7 +27,6 @@ docker-compose up --build
 
 ### 3. Test the API
 
-Visit:  
 ```bash
 https://localhost:8081/swagger/index.html
 ```
