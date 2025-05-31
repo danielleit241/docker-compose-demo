@@ -28,12 +28,10 @@ git clone https://github.com/danielleit241/docker-compose-demo.git
 docker-compose up --build
 ```
 
-This will:
-- Build the .NET API container
-- Pull the official SQL Server image
-- Set up networking between containers
-
 ### 3. Test the API
 
 Visit:  
-`https://localhost:8081/swagger/index.html`
+```bash
+https://localhost:8081/swagger/index.html
+```
+
